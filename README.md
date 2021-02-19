@@ -5,7 +5,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/670ce942-13d6-41e7-a75f-2e3fa0f3edca/deploy-status)](https://app.netlify.com/sites/typingtransfer/deploys)
 
 ## Inspiration
-# Warning: Please allow unknown scripts to run from our website for a seamless experience.
+# Warning: Please allow unknown scripts to run from our website for a seamless experience.Please make this change in your browser settings
 In India, a lot of bank-related transaction didn't use to happen online and required a lot of paperwork but due to covid a lot of bank-related transactions were forced to move online, but this also came with the rising online banking frauds in India.
 
 According to the RBI’s annual report, bank frauds of ₹100,000 and above have more than doubled in value to ₹1.85 lakh crores in FY20 as compared to ₹71,500 crores in FY19. Also, the number of such cases has increased by 28% in the same period. 
